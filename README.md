@@ -1,3 +1,6 @@
+
+![mowingjob](https://github.com/user-attachments/assets/23b11993-873f-4f9b-a1c6-98d6caae1d39)
+
 ## Preview
 [YouTube](https://youtu.be/LlY5wgY-WIM)
 
