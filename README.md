@@ -1,5 +1,5 @@
 
-![mowingjob](https://github.com/user-attachments/assets/23b11993-873f-4f9b-a1c6-98d6caae1d39)
+![mowingjob](https://github.com/user-attachments/assets/65de60dd-7469-429e-bfbf-20c3eb143629)
 
 ## Preview
 [YouTube](https://youtu.be/LlY5wgY-WIM)
