@@ -488,7 +488,7 @@ CreateThread(function()
                 {
                     type = "client",
                     icon = theoryOption.icon,
-                    label = targetLabel,
+                    label = theoryOption.label,
                     action = theoryOption.onSelect,
                 }
             },
